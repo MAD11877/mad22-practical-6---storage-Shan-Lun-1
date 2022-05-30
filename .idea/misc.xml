@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gohsh/OneDrive - Ngee Ann Polytechnic/Documents/NP/NP 2022 S1/MAD/Week 6/app/src/main/res/layout/activity_list.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/gohsh/OneDrive - Ngee Ann Polytechnic/Documents/NP/NP 2022 S1/MAD/Week 6/app/src/main/res/layout/activity_list_layout_one.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/gohsh/OneDrive - Ngee Ann Polytechnic/Documents/NP/NP 2022 S1/MAD/Week 6/app/src/main/res/layout/activity_list_layout_two.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/gohsh/OneDrive - Ngee Ann Polytechnic/Documents/NP/NP 2022 S1/MAD/Week 6/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/Users/gohsh/OneDrive - Ngee Ann Polytechnic/Documents/NP/NP 2022 S1/MAD/Week 6/app/src/main/res/layout/activity_main.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/gohsh/OneDrive - Ngee Ann Polytechnic/Documents/NP/NP 2022 S1/MAD/Week 6/app/src/main/res/layout/activity_message_group.xml" value="0.20052083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
